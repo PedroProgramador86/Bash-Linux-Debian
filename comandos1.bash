@@ -7,5 +7,9 @@ cd diretorioquedesejaentrar
 #Mostra o caminho de onde você se encontra
 pwd 
 
+#Cria uma pasta vazia
+
+touch nomedapasta
+
 #Exibe o conteudo dentro de um arquivo
-cat nomedoarquivo
+cat nomedapasta.txt
