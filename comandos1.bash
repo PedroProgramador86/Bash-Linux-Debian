@@ -9,7 +9,12 @@ pwd
 
 #Cria uma pasta vazia
 
-touch nomedapasta
+touch nomedapasta.txt
+
+#Utiliza editores de texto para editar um arquivo
+
+nano nomedapasta.txt
 
 #Exibe o conteudo dentro de um arquivo
 cat nomedapasta.txt
+
