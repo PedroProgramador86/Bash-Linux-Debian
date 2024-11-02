@@ -1,0 +1,1 @@
+ls #Listagem de diretorios
