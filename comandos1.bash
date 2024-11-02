@@ -6,3 +6,6 @@ cd diretorioquedesejaentrar
 
 #Mostra o caminho de onde você se encontra
 pwd 
+
+#Exibe o conteudo dentro de um arquivo
+cat nomedoarquivo
