@@ -7,6 +7,11 @@ cd diretorioquedesejaentrar
 #Mostra o caminho de onde você se encontra
 pwd 
 
-#Mostra o conteudo do arquivo que você mencionar
-cat nomedoarquivo
+touch nomedapasta.txt
 
+#Utiliza editores de texto para editar um arquivo
+
+nano nomedapasta.txt
+
+#Exibe o conteudo dentro de um arquivo
+cat nomedapasta.txt
