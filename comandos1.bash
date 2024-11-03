@@ -1,6 +1,6 @@
-#O hashtag serve para comentar. Tudo que for escrito em depois de uma hashtag não sera lido pelo terminal
+#O hashtag serve para comentar. Tudo que for escrito depois de uma hashtag não sera lido pelo terminal
 
-#Listagem (mostra quais diretoios, pastas e etc estão no seu estado atual)
+#Listagem (mostra quais diretorios, pastas e etc estão no seu estado atual)
 ls
 
 #Entra em um diretorio
