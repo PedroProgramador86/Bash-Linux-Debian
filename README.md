@@ -1,1 +1,1 @@
-# Comandos Basicos em Bash
+# Comandos Essenciais do Linux
