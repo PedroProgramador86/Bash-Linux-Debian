@@ -1,4 +1,3 @@
-# Mostra o local do diretorio atual
 # "pwd" - Mostra o diretorio atual
 
 pwd
