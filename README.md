@@ -1,1 +1,1 @@
-# Comandos Essenciais do Linux
+# Anotações de Comandos Essenciais do Linux
