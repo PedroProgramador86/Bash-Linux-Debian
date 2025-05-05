@@ -1,9 +1,10 @@
-# "pwd" - Mostra o diretorio atual
+# Mostra o diretorio atual
+# "pwd" - print working directory
 
 pwd
 
 # Lista Arquivos e diretorios
-# "ls" - lista arquivos e diretorios
+# "ls" - listing
 
 ls [opções] [caminho/do/diretório]
 
@@ -19,7 +20,7 @@ ls [opções] [caminho/do/diretório]
 # -1 Exibe um arquivo por linha (sendo util para scripts)
 
 # Mudar de diretorio
-# "cd" Change Directory
+# "cd" - Change Directory
 
 cd [caminho/do/diretório ou nome/do/diretorio/]
 
