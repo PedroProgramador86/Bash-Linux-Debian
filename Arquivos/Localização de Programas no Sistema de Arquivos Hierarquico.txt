@@ -1,4 +1,6 @@
-Ótima pergunta. Quando você instala um programa no **Debian (ou qualquer sistema Linux)**, os arquivos podem ser espalhados em diversos diretórios, dependendo do **tipo de instalação** (via `apt`, `dpkg`, `flatpak`, manual, etc). Abaixo está uma visão **completa e didática** dos locais onde um programa pode deixar seus arquivos:
+Quando você instala um programa no Debian (ou qualquer sistema Linux), os arquivos podem ser espalhados em diversos diretórios, 
+dependendo do tipo de instalação (via `apt`, `dpkg`, `flatpak`, manual, etc). Abaixo está uma visão completa e didática dos locais 
+onde um programa pode deixar seus arquivos:
 
 ---
 
