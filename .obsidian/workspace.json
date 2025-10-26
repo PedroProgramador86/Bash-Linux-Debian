@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Anotações/Alterando o wallpaper da tela de login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Alterando o wallpaper da tela de login"
             }
           }
         ]
@@ -169,13 +169,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ac3bcc5cf4e5a79b",
+  "active": "802598b60f3a4bc4",
   "lastOpenFiles": [
+    "Imagens/Sobre.md",
+    "Anotações/Alterando o wallpaper da tela de login.md",
+    "Imagens",
+    "README.md",
     "flatpak/Localização de Programas no Sistema de Arquivos Hierarquico.md",
-    "Aprendizado",
+    "Anotações",
     "flatpak/Oque é ?.md",
     "Arquivos/Localização de Programas no Sistema de Arquivos Hierarquico.md",
-    "README.md",
     "Comandos"
   ]
 }

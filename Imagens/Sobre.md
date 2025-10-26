@@ -1,0 +1,1 @@
+Nada de importante, apenas imagens que talvez possam ser puxadas para os arquivos ".md" correspondentes
