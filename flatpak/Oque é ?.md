@@ -41,5 +41,3 @@ flatpak install flathub org.videolan.VLC
 # Rodar o app
 flatpak run org.videolan.VLC
 ```
-
-Quer que eu te ajude a configurar o Flatpak no seu Debian 12?
