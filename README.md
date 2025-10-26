@@ -1,9 +1,9 @@
 # Descrição
 
-Dediquei a criação deste repositório para armazenar algumas anotações da minha trilha de aprendizado em Linux, utilizando a distribuição Debian como o meu sistema operacional principal
+Este repositório tem como propósito registrar anotações do meu aprendizado relacionado ao uso do Linux, com foco na distribuição Debian 13. O seu objetivo é documentar procedimentos realizados no terminal, abordando desde tarefas simples até configurações mais avançadas do sistema.
 
-_Atualmente utilizo o Debian 13_
+O conteúdo aqui presente reúne comandos, observações e tutoriais que descrevem como executar diferentes ações no ambiente Linux, como adicionar ícones na área de trabalho, alterar o wallpaper da tela de inicialização, personalizar o ambiente gráfico, realizar ajustes no sistema por meio da linha de comando e etc.
 
-Você pode encontrar aqui algumas anotações, comandos ou tutoriais de como realizar tarefas através da linha de comando do terminal (Como p.ex: Adicionar ícones na área de trabalho, alterar o Wallpaper da tela de inicialização, etc)
+Cada registro busca manter uma abordagem prática e objetiva, servindo como material de consulta e referência para estudos futuros ou em caso de dúvida.
 
-Minhas fontes de pesquisas são documentações oficiais da distribuição, videos no youtube e inteligencia artificial
+As informações foram reunidas a partir de diversas fontes, incluindo a documentação oficial do Debian, tutoriais em vídeo, cursos e o apoio de ferramentas de inteligência artificial para esclarecimento de dúvidas técnicas e aprofundamento do aprendizado.
