@@ -48,4 +48,4 @@ Observações:
 
 - Em caso de duvidas na descoberta do endereço IP da impressora:
 
-> Acesse a impressora localmente e aperte no "i" que exibirá informações sobre ela, incluindo o IP
+> Acesse a impressora localmente e aperte no "i" que exibirá informações sobre ela, incluindo o IP.
